@@ -1,1 +1,2 @@
 Testing file 6
+new line added to merge the changes
